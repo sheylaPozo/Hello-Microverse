@@ -29,6 +29,8 @@ The main purpose of the project [Hello-Microverse](https://sheylapozo.github.io/
 
 ## Instructions
 
+---
+
 To get a local copy up and running follow these simple example steps.
 
 $ cd <folder>
